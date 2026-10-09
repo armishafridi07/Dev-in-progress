@@ -1,2 +1,2 @@
 # Dev-in-progress
-A collection of my software engineering learning journey, projects, programming practice, and skills developed through academic and practical work.
+Learning, building and growing as an aspiring software developer.
